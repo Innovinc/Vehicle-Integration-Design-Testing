@@ -3,8 +3,8 @@ S.No           	Description
 2	              No. of Poles	
 3             	Hall Sensor angle                          	
 4              	Rated Speed(rpm)	
-5	              Rated Power	2000
-6	              Peak Power	4000
+5	              Rated Power	
+6	              Peak Power	
 7             	Min Voltage	
 8              	Nominal Voltage	
 9	              Max Voltage	
