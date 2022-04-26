@@ -1,0 +1,28 @@
+S.No           	Description	                                Specification
+1	              Motor Type	Hub motor                       
+2	              No. of Poles	
+3             	Hall Sensor angle	120 Degree
+4              	Rated Speed(rpm)	
+5	              Rated Power	2000
+6	              Peak Power	4000
+7             	Min Voltage	
+8              	Nominal Voltage	
+9	              Max Voltage	
+10	            Rated Current	
+11	            Peak Current	
+12	            Rated Torque	
+13	            Peak Torque	
+14	            Over Current Protection	
+15              Low Voltage protection	
+16	            High Voltage protection	
+17	            Throttle ( Voltage range )	
+18	            Forward / Reverse	
+19	            Brake ( Active High or Active Low )	
+20	            Regenerative Brake	
+21	            3 Speed Limit	
+22	            Soft/Quick Start	
+23	            CAN interfacing	
+24	            Display Protocol	LIN
+25	            IP rating	IP65
+26	            Mechanical Dimensions	
+27	            Harness / Connector details	
