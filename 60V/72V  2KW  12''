@@ -1,7 +1,7 @@
-S.No           	Description	                                Specification
+S.No           	Description	                                
 1	              Motor Type	Hub motor                       
 2	              No. of Poles	
-3             	Hall Sensor angle	120 Degree
+3             	Hall Sensor angle                          	
 4              	Rated Speed(rpm)	
 5	              Rated Power	2000
 6	              Peak Power	4000
